@@ -1,0 +1,14 @@
+scipy
+numpy==1.15.4
+passlib==1.6.5
+pycrypto==2.6.1
+python-dateutil==2.5.3
+requests==2.18.4
+freezegun==0.3.9
+fauxfactory==2.1.2
+flake8==3.5.0
+itsdangerous==0.24
+Werkzeug==0.12.2
+librosa==0.6.3
+simplejson==3.16.0
+selenium==3.141.0
